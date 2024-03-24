@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "327737116023",
+    "project_id": "agroconnect-ffd58",
+    "storage_bucket": "agroconnect-ffd58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327737116023:android:fc05357aacdb07ffa30d72",
+        "android_client_info": {
+          "package_name": "com.example.agroconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327737116023-vsjsb3rkc3cg9ob2qbhrd1i4o47hd32d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agroconnect",
+            "certificate_hash": "5dd5c25f0282be51ed98fab443026c30931ce197"
+          }
+        },
+        {
+          "client_id": "327737116023-5cgq8cocknh6bh08appv8irsri047osp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-KDw4c4r7PfIwzSe4KYZP9-Vxaw7bHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327737116023-5cgq8cocknh6bh08appv8irsri047osp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
